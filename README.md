@@ -4,4 +4,4 @@
 <br><br><br>
 👨‍💼 Owner of Dannus Network 👨‍💼
 <br>
-[🔗 github.com/Dannus-Network 🔗](https://github.com/Dannus-Network/Dannus)
+[🔗 github.com/Dannus-Network 🔗](https://github.com/Dannus-Network)
